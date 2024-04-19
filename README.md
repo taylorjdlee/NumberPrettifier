@@ -1,5 +1,5 @@
-# NumberPrettifer
-A python script that prettifys numbers
+# NumberPrettifier
+A python script that prettifies numbers
 
 ## Description
 This repo features two files prettifier.py and test_prettifier.py. 
